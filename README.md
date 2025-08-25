@@ -1,19 +1,9 @@
 # KoreanTuna.github.io
 
-This repository contains a minimal [Jekyll](https://jekyllrb.com/) site for testing GitHub Pages hosting.
+This repository hosts a plain static site for testing Android App Links.
 
-## Local Development
+## App Link
 
-1. Install dependencies:
+The Android App Link declaration is served from [`.well-known/assetlinks.json`](./.well-known/assetlinks.json).
 
-   ```bash
-   bundle install
-   ```
-
-2. Build and serve locally:
-
-   ```bash
-   bundle exec jekyll serve
-   ```
-
-   Then open <http://localhost:4000> in your browser.
+No build step is required—push changes directly to the `main` branch and GitHub Pages will serve them.
