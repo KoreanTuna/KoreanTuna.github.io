@@ -7,10 +7,9 @@ title: Welcome
 This site is for hosting tests.</br>
 
 
-[앱 리다이렉트](https://com.example.paymeny_demo/home)
+[앱 리다이렉트](https://koreantuna.github.io/home)
 
 
-<a herf="https://com.example.paymeny_demo/home" >리다이렉트</a>
 
 
 0.0.1
