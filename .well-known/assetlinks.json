@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.payment_demo",
+      "sha256_cert_fingerprints":
+      ["3E:26:C6:89:6D:61:BC:30:0E:D7:0D:23:39:A5:08:21:92:75:F6:45:B4:BD:05:53:3B:17:0B:4E:00:36:2F:B7"]
+    }
+  }
+]
