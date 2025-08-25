@@ -5,4 +5,7 @@ title: Welcome
 # Welcome
 
 This site is for hosting tests.</br>
-https://com.example.paymeny_demo/home
+
+
+[앱 리다이렉트](https://com.example.paymeny_demo/home)
+
