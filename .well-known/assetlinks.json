@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.payment_demo",
+      "package_name": "com.example.deep_link_test",
       "sha256_cert_fingerprints":
       ["EF:60:A7:27:7B:CE:40:19:7C:D2:46:F3:A4:22:D4:E4:6A:EB:75:A6:78:C5:4C:70:34:C8:FE:5D:30:41:E2:26"]
     }
